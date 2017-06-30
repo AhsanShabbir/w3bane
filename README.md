@@ -6,4 +6,4 @@ I simply design it to test my own server security. I hereby take no responsibily
 
 # Use only for educational purpose
 
-# Developer is not responsible for any of your actions. You are sole responsible for all of your action either good or bad using this peice of code.
+# You are solely responsible for all of your action, either good or bad using this piece of code. Developer shall not held responsible for any matter.
